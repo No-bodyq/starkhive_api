@@ -6,4 +6,4 @@ module.exports = {
     '^.+\\.(t|j)s$': 'ts-jest'
   },
   testEnvironment: 'node'
-}; 
+};
